@@ -44,3 +44,9 @@ console.log(x<y && x==5);
 console.log(x>y || x==5);
 console.log(!false);
 
+// comments
+// this is a single line comment
+
+/* this is a 
+multi line
+comment */
